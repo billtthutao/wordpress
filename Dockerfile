@@ -1,5 +1,6 @@
 FROM wordpress:v1.0
 
-USER root
+EXPOSE 8080
+USER 1001
 
  
